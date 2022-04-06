@@ -1,0 +1,10 @@
+https://docs.scrapy.org/en/latest/
+
+
+Spiders: https://docs.scrapy.org/en/latest/topics/spiders.html
+
+Selector: https://docs.scrapy.org/en/latest/topics/selectors.html
+
+
+
+https://docs.scrapy.org/en/latest/intro/tutorial.html
