@@ -4,3 +4,4 @@ Ziel des Projekts: Ziel ist es, einen Screenshot von einer Webseite zu machen (M
 und in eine Excel liste Gepackt . So kann man ganz einfach Automatisch Klassenlisten erzeugen und spart sie die manuelle Erstellung der Seiten. 
 ############################################################################################################################################################
 Diese Textdatei wird als Zusammenfassung genutzt und soll die Arbeitsschritte Dokumentieren. Wir geben sie zwar nicht ab, allerdings ist das eine gute Orientierung für die Dokumentation am Ende. 
+Tester123
